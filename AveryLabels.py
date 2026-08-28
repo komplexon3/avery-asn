@@ -45,6 +45,8 @@ labelInfo = {
 
     # Royal Green 1x0.375 (1138)
     1138: (7, 22, (1*inch, 0.375*inch), (0.1*inch,0.098*inch), (0.4375*inch, 0.24*inch), letter),
+
+    4732: (5, 16, (35.6*mm, 16.9*mm), (2.5*mm, 0), (11*mm, 13*mm), A4),
 }
 
 class AveryLabel:
